@@ -1,5 +1,5 @@
 package Ungs;
-
+/*Escribir un programa que pregunte tu nombre e imprima: Hola "nombre" */
 import java.util.Scanner;
 
 public class Ejercicio2 {

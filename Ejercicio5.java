@@ -1,5 +1,6 @@
 package Ungs;
-
+//Escribir un programa que te pregunte por dos numeros, y a continuacion imprima un mensaje
+// del estilo El promedio es: y el valor del promedio de ambos numeros
 import java.util.Scanner;
 
 public class Ejercicio5 {

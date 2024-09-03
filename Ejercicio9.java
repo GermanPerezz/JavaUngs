@@ -1,5 +1,6 @@
 package Ungs;
-
+ /* Escribir un metodo static void imprimirFecha(int dia, int mes, int anio) que imprime la
+ fecha pasada como parametro en formato del estilo 5 de Julio de 2030 . */
 import java.util.Scanner;
 
 public class Ejercicio9 {

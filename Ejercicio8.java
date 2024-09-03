@@ -1,5 +1,10 @@
 package Ungs;
-
+/* Escribir un metodo static void ponerNota(double x, double y) que toma dos numeros de
+cimales y los promedia. En caso que el promedio sea mayor o igual a 7, debera imprimir
+ Promocionado , si es mayor o igual a 4 pero menor que 7, imprime Aprobado y si es menor
+ que 4 imprime Debe recuperar . Probarla llamandola desde el main con distintos numeros.
+ Luego, pedirle ambos numeros al usuario (usando nextFloat() del Scanner) para pasarselos a
+ ponerNota **/
 import java.util.Scanner;
 
 public class Ejercicio8 {
